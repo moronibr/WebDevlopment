@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+body{
+    background-color: #134266 ;
+    font-family:Verdana, Geneva, Tahoma, sans-;
+    margin: 0;
+    padding: 0;
+}
+
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 80px;
+}
+
+header {
+    background-color: #F3cc29;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#logo_link{
+    padding-top: 5px;
+}
+
+nav{
+    text-align: center;
+    padding: 35px;
+    
+}
+
+
+a{
+    text-align: center;
+    padding: 35px;
+
+}
+
+nav a:hover{
+    text-align: center;
+    background-color: #aa8f1d;
+    text-decoration: none;
+}
+
+#hero-msg {
+    text-align: center;
+    
+}
+
+.hero-img{
+    width: 100px;
+}
+
+h1{
+    text-align: center;
+
+}
+
+.card-img{
+    border: 10px solid black;
+}
+.home-title{
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+#hero-msg{
+    text-align: center;
+
+}
+
+h4{
+    text-align: center;
+
+}
+
+
+.button-box{
+    text-align: center;
+
+}
+
+.book{
+    color: black;
+    font-size: 18px;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+.book:hover {
+    background-color: #4379a1;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+.join{
+    color: black;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius:5px;
+
+}
+
+.join:hover{
+    background-color:  #F3cc29;
+    text-decoration: none;
+}
+
+main{
+    text-align: center;
+    box-sizing: border-box;
+
+}
+
+.rivers-card{
+    margin: 200px 0;
+}
+
+.camping-card{
+    margin: 200px 0;
+
+}
+
+.rapids-card{
+    margin: 200px 0;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+
+h2 {
+    margin: 0;
+}
+
+section{
+    text-align: center;
+    box-sizing: border-box;
+
+}
+
+#background{
+    height: 725px;
+    background-color: #aa8f1d;
+}
+
+.msg{
+    background-color: #aa8f1d;
+    font-size: .8em;
+    padding: 35px;
+    padding-bottom: 15px;
+    
+}
+
+p {
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+
+.social{
+    padding-top: 15px;
+
+}
+
+img{
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+footer{
+    background-color: #F3cc29;
+    padding: 25px 50px;
+    padding-top: 15px;
+    margin-top: 200px;
+}
