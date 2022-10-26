@@ -29,7 +29,8 @@ header {
 
 nav{
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+   
     
 }
 
@@ -37,7 +38,7 @@ nav{
 a{
     text-align: center;
     padding: 35px;
-
+    color: white ;
 }
 
 nav a:hover{
